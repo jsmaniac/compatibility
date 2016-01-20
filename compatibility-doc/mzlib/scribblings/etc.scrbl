@@ -227,7 +227,7 @@ Equivalent, respectively, to
 @defform*[[(this-expression-source-directory)
            (this-expression-source-directory datum)]]{
 
-@margin-note{See @racketmodname[scheme/runtime-path] for a definition form
+@margin-note{See @racketmodname[racket/runtime-path] for a definition form
 that works better when creating executables.}
 
 Expands to an expression that evaluates to the directory of the file
